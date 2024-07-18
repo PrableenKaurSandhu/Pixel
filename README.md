@@ -1,4 +1,3 @@
-# Pixel
 <br>
 Developed an app that would give a filtered image as output using FLUTTER FLOW
 <br>
